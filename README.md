@@ -1,9 +1,12 @@
-# AVL Tree Implementation
+# Зачем этот форк
 
-An AVL Tree is a self-balancing binary search tree.  This is my implementation in C++.
-http://en.wikipedia.org/wiki/AVL_tree
+Форк необходим для осваивания сбалансированного АВЛ-дерева,эта реализация привлекла меня своей простотой.
+Возможно проект будет дополняться.
 
-Build and run test like this -
+[АВЛ-дерево на википедии](http://en.wikipedia.org/wiki/AVL_tree)
 
+[Визуализация АВЛ-дерева](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+
+Этот проект удобно собирать на линукс командой:
     make
     ./ttest
